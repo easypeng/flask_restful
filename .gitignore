@@ -1,0 +1,9 @@
+py3env/
+.history/
+.idea/
+.vscode/
+bin/
+pkg/
+*.log
+__pycache__/
+*/__pycache__/
